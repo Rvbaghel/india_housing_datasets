@@ -15,11 +15,11 @@ print(dataset["target"].head())
 print(dataset["DESCR"])
 
 🏙️ Included Datasets
-| City         | Function                    | Description                         |
-| ------------ | --------------------------- | ----------------------------------- |
-| 🏡 Ahmedabad | `fetch_ahmedabad_housing()` | Prices, BHK, area, floor, location  |
-| 🏙️ Gurugram | `fetch_gurugram_housing()`  | Modern housing and real-estate data |
-| 🌆 Mumbai    | `fetch_mumbai_housing()`    | Urban apartment data for analysis   |
+| City          | Function                    | Description                         |
+| ------------  | --------------------------- | ----------------------------------- |
+| 🏡 Ahmedabad | fetch_ahmedabad_housing()  | Prices, BHK, area, floor, location  |
+| 🏙️ Gurugram  | fetch_gurugram_housing()    | Modern housing and real-estate data |
+| 🌆 Mumbai    | fetch_mumbai_housing()     | Urban apartment data for analysis   |
 
 💡 Author
 
@@ -31,5 +31,4 @@ Vishal Baghel
 📜 License
 
 MIT License © 2025 — Vishal Baghel
-
----
+----
