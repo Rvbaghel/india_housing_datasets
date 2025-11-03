@@ -4,11 +4,11 @@ setup(
     name="india_housing_datasets",
     version="0.1.0",
     author="Vishal Baghel",
-    author_email="your_email@example.com",
+    author_email="baghelvishal264@gmail.com",
     description="A collection of clean Indian city housing datasets (Ahmedabad, Gurugram, Mumbai).",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/vishalbaghel/india_housing_datasets",  # change later if you upload to GitHub
+    url="https://github.com/Rvbaghel/india_housing_datasets",  
     packages=find_packages(),
     include_package_data=True,
     package_data={"india_housing_datasets": ["data/*.csv"]},
