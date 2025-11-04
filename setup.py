@@ -6,7 +6,7 @@ setup(
     author="Vishal Baghel",
     author_email="baghelvishal264@gmail.com",
     description="A collection of clean Indian city housing datasets (Ahmedabad, Gurugram, Mumbai).",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/Rvbaghel/india_housing_datasets",  
     packages=find_packages(),
