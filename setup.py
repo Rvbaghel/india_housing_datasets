@@ -15,6 +15,12 @@ setup(
     install_requires=[
         "pandas>=1.3.0",
     ],
+    keywords="india, housing, datasets, real-estate, pandas, machine-learning",
+    project_urls={
+    "Documentation":"https://github.com/Rvbaghel/india_housing_datasets#readme",
+    "Source":"https://github.com/Rvbaghel/india_housing_datasets",
+    "Bug Tracker":"https://github.com/Rvbaghel/india_housing_datasets/issues",
+    },
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
